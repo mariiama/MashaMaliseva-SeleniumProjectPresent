@@ -24,6 +24,7 @@ public class SearchMisradApnim {
         //click on Kablat Kahal
         wd.findElement(By.cssSelector("#tm-4")).click();
         // get page titel
+        // hello
         String pageTitle = wd.findElement(By.cssSelector("h1")).getText();
         System.out.println(pageTitle);
 
