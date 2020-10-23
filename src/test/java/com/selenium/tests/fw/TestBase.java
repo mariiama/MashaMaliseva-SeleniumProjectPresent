@@ -1,4 +1,4 @@
-package com.selenium.tests;
+package com.selenium.tests.fw;
 
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;

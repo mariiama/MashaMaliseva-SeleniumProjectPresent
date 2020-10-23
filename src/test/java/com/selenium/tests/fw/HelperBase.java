@@ -1,4 +1,4 @@
-package com.selenium.tests;
+package com.selenium.tests.fw;
 
 import org.openqa.selenium.WebDriver;
 

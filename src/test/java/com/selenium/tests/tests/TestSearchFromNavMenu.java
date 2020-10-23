@@ -1,5 +1,6 @@
-package com.selenium.tests;
+package com.selenium.tests.tests;
 
+import com.selenium.tests.fw.TestBase;
 import org.testng.annotations.Test;
 
 public class TestSearchFromNavMenu extends TestBase {
